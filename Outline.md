@@ -2,12 +2,15 @@
 
 ## What Is The Company?
 Introduction
+
 1-2 Sentence Pitch
+
 Generate Interest
 
 
 ## Who Am I Giving Money To?
 Team / Bio
+
 Sell the team!
 * industry experience
 * team
@@ -22,11 +25,14 @@ Sell the team!
 Operations / UX
 
 Fronted (What customer sees)
+
 Backend (How it works)
 
 * Before / After your company / service / product
 * < 7 Step Process (Broad Strokes)
-[Example](step-by-step-process.drawio.svg)
+
+![Example](./step-by-step-process.drawio.svg)
+
 * Sell Identity
 e.g. Brooklyn Brewery sell "Brooklyn"
 * Screenshots / UX
@@ -50,7 +56,9 @@ Be the expert!
 Competition
 
 Brand / Location / Price / Facts
+
 Even include potential competitors (industry competitors)
+
 Did another company try this and fail?
 
 
@@ -58,7 +66,9 @@ Did another company try this and fail?
 Market Strategy / Roadmap
 
 How will you make money?
+
 What are your costs?
+
 Broad strokes, more detailed financials in future conversations
 
 
@@ -66,6 +76,7 @@ Broad strokes, more detailed financials in future conversations
 Revenues
 
 Core Revenue Streams
+
 Potential Ancillary Revenue Streams
 
 
