@@ -31,7 +31,7 @@ Backend (How it works)
 * Before / After your company / service / product
 * < 7 Step Process (Broad Strokes)
 
-![Example](./step-by-step-process.drawio.svg)
+![underpants gnomes business plan](./underpants-gnomes.drawio.svg)
 
 * Sell Identity
 e.g. Brooklyn Brewery sell "Brooklyn"
